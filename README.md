@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm abdelaziz86</h1>
 <h3 align="center">Creative Full Stack Web Developer with 4 years of expertise in programming. Self-Claimed fast learner and exceptional at problem solving and developing innovative ideas for website solutions with a strong communication ability to convey ideas clearly.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelaziz86&label=Profile%20views&color=0e75b6&style=flat" alt="abdelaziz86" /> </p>
 
